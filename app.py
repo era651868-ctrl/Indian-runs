@@ -1,4 +1,4 @@
-import streamlit as tf
+import streamlit as st
 import pandas as pd
 import json
 from pipeline import calculate_candidate_score
